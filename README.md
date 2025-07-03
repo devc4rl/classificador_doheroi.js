@@ -79,8 +79,3 @@ Este projeto foi uma excelente oportunidade para aplicar e reforçar os seguinte
 
 -----
 
-### 📄 Licença
-
-Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo `LICENSE` (se você criar um).
-
------
