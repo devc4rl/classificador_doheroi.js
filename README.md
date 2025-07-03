@@ -75,7 +75,7 @@ Este projeto foi uma excelente oportunidade para aplicar e reforçar os seguinte
 
 ### ✍️ Autor
 
-  * [devc4rl](https://www.google.com/search?q=https://github.com/devc4rl)
+  * [devc4rl](github.com/devc4rl)
 
 -----
 
